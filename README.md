@@ -2,19 +2,16 @@
 > **Java Swing과 Oracle DB를 연동한 클래식 호텔 예약 관리 시스템**
 > 프로젝트 기간: 2023.06.28 ~ 2023.07.13 (팀 프로젝트)
 
-## 🛠 Tech Stack
-- **Language**: Java
-- **GUI Framework**: Java Swing, JavaFX (Web View 전용)
-- **Database**: Oracle DB (JDBC 연동)
-- **Architecture**: Interface 기반의 역할 분담 구조
+## 🛠️ 사용 기술 및 라이브러리
+- Java, Java Swing, JavaFX, Oracle DB
 
 ---
 
-## 📱 담당 기능 및 성과
-- **Project Lead**: 프로젝트 팀장, 전체 기획 및 DB 스키마 설계
-- **Core Logic**: 대부분의 Java 비즈니스 로직 구현 및 모든 SQL문 작성
-- **UI/UX**: 메인 화면 및 상세 화면 UI 설계, **카카오맵 API** 연동 (JavaFX WebView 활용)
-- **Connectivity**: **JDBC**를 활용한 안정적인 데이터 트랜잭션 처리 및 관리
+## 📱 담당한 기능
+- 프로젝트 팀장(총괄 진행), 기획, DB설계
+- 대부분의 Java 기능구현 , 모든 SQL문 작성
+- **메인화면** UI
+- **상세화면** UI, 카카오맵 API 사용
 
 ---
 
@@ -42,7 +39,8 @@
 ---
 
 ## 💡 깨달은 점
-- **기술적 유연성**: Java Swing만으로 부족한 기능(지도 표시 등)을 **JavaFX**와 혼합하여 해결하는 유연한 기술 스택 활용 능력을 길렀습니다.
-- **인터페이스의 힘**: **Interface**를 미리 정의함으로써 팀원 간의 결합도를 낮추고 동시 개발이 가능한 환경을 구축했습니다.
-- **데이터 핸들링**: 복잡한 예약 로직과 결제 시스템을 **SQL** 쿼리만으로 정교하게 제어하는 경험을 했습니다.
-- **JDBC 활용**: Java와 Oracle DB를 연결하여 대량의 데이터를 안정적으로 관리하는 법을 익혔습니다.
+- 카카오맵을 사용하기 위한 웹 뷰 기능 부분은 Java Swing 대신 JavaFX로 대체해서 사용
+- **Interface**를 작성해두면 협업시 용이하다. 동시 작업 가능
+- **JDBC**를 이용하여 Java와 Oracle DB를 연결, 관리하기
+- **JAVA** 활용 능력 향상
+- **SQL**문 작성 능력 향상
