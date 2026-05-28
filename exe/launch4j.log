@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\kosmo\Desktop\Project5t\EverestHotel.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\kosmo\Desktop\Project5t\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\KIM\Java\jdk17
+Substitute:	PATH = C:\app\kosmo\virtual\product\12.2.0\dbhome_1\bin;C:\KIM\Java\jdk17\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\kosmo\AppData\Local\Microsoft\WindowsApps;C:\Users\kosmo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kosmo\AppData\Roaming\npm;C:\KIM\Java\jdk17\bin
+JRE paths:	C:\KIM\Java\jdk17;C:\app\kosmo\virtual\product\12.2.0\dbhome_1\bin;C:\KIM\Java\jdk17\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\kosmo\AppData\Local\Microsoft\WindowsApps;C:\Users\kosmo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kosmo\AppData\Roaming\npm;C:\KIM\Java\jdk17\bin
+Check launcher:	C:\KIM\Java\jdk17\bin\javaw.exe (OK)
+Version string: 1.017.000_006 / 64-Bit (OK)
+Launcher:	C:\KIM\Java\jdk17\bin\javaw.exe
+Launcher args:	--module-path javafx/lib --add-modules javafx.web,javafx.media,javafx.swing -jar "C:\Users\kosmo\Desktop\Project5t\EverestHotel.exe"
+Args length:	132/32768 chars
+Exit code:	0

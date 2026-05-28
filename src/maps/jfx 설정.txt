@@ -1,0 +1,10 @@
+window - preferences - java - user libraries
+jfx 라이브러리 생성 후 addexternal jars
+
+내프로젝트 - preferences - java build path - libraries - jfx 라이브러리 생성한걸 modulepath 해준다
+
+run - run configurations- arguments - vm arguments에 
+--module-path C:/KIM/Java/javafx-sdk-17.0.7/lib --add-modules javafx.web,javafx.media,javafx.swing
+복붙 해준다
+
+html파일 필요, jfx 압축파일들 필요

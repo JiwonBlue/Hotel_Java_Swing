@@ -1,0 +1,1 @@
+java --module-path javafx/lib --add-modules javafx.web,javafx.media,javafx.swing -jar project.jar
